@@ -1,1 +1,1 @@
-# Traductor-de-senias
+# Traductor de senias
