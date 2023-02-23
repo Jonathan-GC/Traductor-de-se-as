@@ -1,1 +1,1 @@
-# Traductor-de-se-as
+# Traductor-de-senias
