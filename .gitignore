@@ -1,2 +1,5 @@
 *.avi
-/sources/
+*.mp4
+/sources/*.avi
+/sources/*.mp4
+/clavesAzure/*
