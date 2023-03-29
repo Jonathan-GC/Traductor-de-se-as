@@ -4,7 +4,7 @@ from managers import WindowManager, CaptureManager
 class Cameo(object):
     def __init__(self):
         self._windowManager = WindowManager('Cameo', self.onKeypress)
-        self._captureManager = CaptureManager(cv2.VideoCapture(2), self._windowManager, True)
+        self._captureManager = CaptureManager(cv2.VideoCapture(1), self._windowManager, True)
 
     def run(self):
         """Run the main loop."""         
@@ -26,15 +26,15 @@ class Cameo(object):
         escape -> Quit.
         """         
         if keycode == 32: # space
-            self._captureManager.writeImage('screenshot.png')
+            self._captureManager.writeImage('../sources/screenshot.png')
         elif keycode == 9: # tab
             if not self._captureManager.isWritingVideo:
-                self._captureManager.startWritingVideo('screencast.avi')             else:
+                self._captureManager.startWritingVideo('../sources/screencast.avi')
+            else:
                 self._captureManager.stopWritingVideo()         
-            elif keycode == 27: # escape
-                self._windowManager.destroyWindow()
+        elif keycode == 27: # escape
+            self._windowManager.destroyWindow()
 
-'''
+
 if __name__=="__main__":
     Cameo().run()
-'''
