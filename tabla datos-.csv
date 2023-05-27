@@ -1,0 +1,1006 @@
+01/01/2018, 10000 ,Evento festivo,dias de descanso,Nacional ,3,7
+15/01/2018, 100000 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+19/01/2018, 120000 ,Evento economico,Comercio internacional,Internacional,6,15
+26/01/2018, 150000 ,Evento politico,Internacional,Internacional,2,5
+31/01/2018, 60000 ,Evento economico,Comercio internacional,Internacional,6,15
+05/02/2018, 10000 ,Evento deportivo,Impacto local,Nacional ,1,2
+06/02/2018, 290000 ,Evento de farandula,Arte,Internacional,5,12
+07/02/2018, 410000 ,Evento de farandula,Ciencia,Internacional,5,14
+08/02/2018, 10000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+09/02/2018, 10000 ,Evento politico,Internacional,Internacional,2,5
+11/02/2018, 10000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+12/02/2018, 10000 ,Evento de farandula,Ciencia,Internacional,5,14
+13/02/2018, 10000 ,Evento politico,Consultas y decisiones,Internacional,2,6
+14/02/2018, 10000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+16/02/2018, 10000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+17/02/2018, 5000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+18/02/2018, 160000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional ,7,17
+19/02/2018, 10000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+20/02/2018, 10000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+21/02/2018, 10000 ,Evento social,Paro publico,Nacional ,8,18
+22/02/2018, 10000 ,Evento economico,Internos local,Nacional ,6,16
+23/02/2018, 10000 ,Evento economico,Internos local,Nacional ,6,16
+24/02/2018, 10000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+25/02/2018, 10000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+27/02/2018, 70000 ,Evento economico,Internos local,Nacional ,6,16
+28/02/2018, 10000 ,Evento economico,Internos local,Nacional ,6,16
+04/03/2018, 100000 ,Evento economico,Internos local,Nacional ,6,16
+05/03/2018, 100000 ,Evento economico,Internos local,Nacional ,6,16
+06/03/2018, 160000 ,Evento economico,Internos local,Nacional ,6,16
+13/03/2018, 120000 ,Evento politico,Internacional,Internacional,2,5
+22/03/2018, 60000 ,Evento politico,Internacional,Internacional,2,5
+05/04/2018, 60000 ,Evento economico,Internos local,Nacional ,6,16
+08/04/2018, 100000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+13/04/2018, 105000 ,Evento economico,Internos local,Nacional ,6,16
+18/04/2018, 25000 ,Evento economico,Comercio internacional,Nacional ,6,15
+27/04/2018, 60000 ,Evento politico,Internacional,Internacional,2,5
+01/05/2018, 240000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/05/2018, 100000 ,Evento economico,Internos local,Nacional ,6,16
+07/05/2018, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+31/05/2018, 60000 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/06/2018, 200000 ,Evento festivo,dias de descanso,Nacional ,3,7
+16/06/2018, 58571 ,Evento economico,Comercio internacional,Internacional,6,15
+20/06/2018, 100000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+29/06/2018, 60000 ,Evento economico,Internos local,Internacional,6,16
+02/07/2018, 50000 ,Evento politico,Internacional,Internacional,2,5
+08/07/2018, 50000 ,Evento politico,Internacional,Internacional,2,5
+09/07/2018, 150000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+23/07/2018, 100000 ,Evento politico,Internacional,Internacional,2,5
+27/07/2018, 60000 ,Evento economico,Internos local,Nacional ,6,16
+30/07/2018, 50000 ,Evento politico,Internacional,Internacional,2,5
+03/08/2018, 50000 ,Evento politico,Elecciones,Nacional ,2,3
+09/08/2018, 30000 ,Evento economico,Internos local,Nacional ,6,16
+11/08/2018, 200000 ,Evento economico,Internos local,Nacional ,6,16
+20/08/2018, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+22/08/2018, 60000 ,Evento festivo,Aniversario,Nacional ,3,8
+30/08/2018, 300000 ,Evento politico,Internacional,Internacional,2,5
+01/09/2018, 2130000 ,Evento economico,Comercio internacional,Internacional,6,15
+04/09/2018, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+05/09/2018, 50000 ,Evento economico,Internos local,Nacional ,6,16
+06/09/2018, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+08/09/2018, 100000 ,Evento de farandula,Actualidad,Internacional,5,13
+11/09/2018, 5000 ,Evento de farandula,Actualidad,Internacional,5,13
+20/09/2018, 250000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+27/09/2018, 50000 ,Evento economico,Comercio internacional,Internacional,6,15
+02/10/2018, 100000 ,Evento politico,Internacional,Internacional,2,5
+05/10/2018, 260000 ,Evento de farandula,Actualidad,Internacional,5,13
+08/10/2018, 50000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional ,7,17
+11/10/2018, 110000 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+15/10/2018, 100000 ,Evento social,Paro publico,Internacional,8,18
+16/10/2018, 500000 ,Evento de salud publica,Internos local,Nacional ,9,16
+19/10/2018, 20000 ,Evento de salud publica,Internos local,Internacional,9,16
+21/10/2018, 550000 ,Evento economico,Comercio internacional,Nacional ,6,15
+23/10/2018, 275000 ,Evento economico,Comercio internacional,Internacional,6,15
+24/10/2018, 495000 ,Evento economico,Comercio internacional,Internacional,6,15
+25/10/2018, 530000 ,Evento economico,Internos local,Nacional ,6,16
+26/10/2018, 60000 ,Evento economico,Comercio internacional,Internacional,6,15
+27/10/2018, 180000 ,Evento politico,Internacional,Internacional,2,5
+28/10/2018, 50000 ,Evento politico,Internacional,Internacional,2,5
+29/10/2018, 320000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+30/10/2018, 1755000 ,Evento economico,Comercio internacional,Nacional ,6,15
+31/10/2018, 580000 ,Evento economico,Internos local,Nacional ,6,16
+01/11/2018, 50000 ,Evento economico,Internos local,Nacional ,6,16
+02/11/2018, 300000 ,Evento economico,Internos local,Nacional ,6,16
+03/11/2018, 190000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+04/11/2018, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+05/11/2018, 100000 ,Evento festivo,dias de descanso,Nacional ,3,7
+07/11/2018, 235000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+08/11/2018, 70000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+09/11/2018, 600000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+10/11/2018, 135000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+12/11/2018, 80000 ,Evento festivo,dias de descanso,Nacional ,3,7
+13/11/2018, 100000 ,Evento social,Paro publico,Nacional ,8,18
+14/11/2018, 50000 ,Evento economico,Internos local,Nacional ,6,16
+16/11/2018, 500000 ,Evento politico,Internacional,Internacional,2,5
+18/11/2018, 705000 ,Evento economico,Comercio internacional,Nacional ,6,15
+19/11/2018, 303300 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+21/11/2018, 50000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/11/2018, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+25/11/2018, 100000 ,Evento economico,Internos local,Nacional ,6,16
+26/11/2018, 325000 ,Evento economico,Comercio internacional,Internacional,6,15
+28/11/2018, 120000 ,Evento social,Paro publico,Nacional ,8,18
+29/11/2018, 50000 ,Evento economico,Internos local,Nacional ,6,16
+02/12/2018, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+03/12/2018, 20000 ,Evento economico,Internos local,Nacional ,6,16
+05/12/2018, 200000 ,Evento politico,Internacional,Internacional,2,5
+08/12/2018, 330000 ,Evento festivo,dias de descanso,Nacional ,3,7
+09/12/2018, 500000 ,Evento economico,Internos local,Nacional ,6,16
+10/12/2018, 20000 ,Evento economico,Internos local,Nacional ,6,16
+12/12/2018, 500000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+13/12/2018, 30000 ,Evento social,Paro publico,Nacional ,8,18
+14/12/2018, 1000000 ,Evento social,Paro publico,Nacional ,8,18
+15/12/2018, 150000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+16/12/2018, 120000 ,Evento economico,Internos local,Nacional ,6,16
+17/12/2018, 685000 ,Evento economico,Internos local,Nacional ,6,16
+18/12/2018, 1145000 ,Evento economico,Internos local,Internacional,6,16
+19/12/2018, 135000 ,Evento politico,Consultas y decisiones,Internacional,2,6
+20/12/2018, 140000 ,Evento economico,Internos local,Nacional ,6,16
+21/12/2018, 645000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/12/2018, 1020000 ,Evento politico,Internacional,Internacional,2,5
+23/12/2018, 50000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+24/12/2018, 600000 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/12/2018, 100000 ,Evento economico,Internos local,Nacional ,6,16
+26/12/2018, 190000 ,Evento economico,Internos local,Nacional ,6,16
+27/12/2018, 550000 ,Evento economico,Internos local,Nacional ,6,16
+28/12/2018, 600000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+29/12/2018, 60000 ,Evento economico,Internos local,Nacional ,6,16
+30/12/2018, 535000 ,Evento economico,Comercio internacional,Nacional ,6,15
+03/01/2019, 660000 ,Evento politico,Internacional,Internacional,2,5
+04/01/2019, 250000 ,Evento politico,Internacional,Internacional,2,5
+05/01/2019, 20000 ,Evento economico,Comercio internacional,Nacional ,6,15
+06/01/2019, 35000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional ,7,17
+08/01/2019, 400000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+12/01/2019, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+15/01/2019, 200000 ,Evento economico,Comercio internacional,Nacional ,6,15
+16/01/2019, 300000 ,Evento economico,Comercio internacional,Nacional ,6,15
+18/01/2019, 50000 ,Evento politico,Consultas y decisiones,Internacional,2,6
+19/01/2019, 50000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+22/01/2019, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+25/01/2019, 50000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+27/01/2019, 50000 ,Evento economico,Comercio internacional,Nacional ,6,15
+30/01/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+01/02/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+02/02/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+03/02/2019, 35000 ,Evento economico,Internos local,Nacional ,6,16
+06/02/2019, 55000 ,Evento economico,Internos local,Nacional ,6,16
+08/02/2019, 300000 ,Evento economico,Internos local,Nacional ,6,16
+09/02/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+15/02/2019, 470000 ,Evento economico,Internos local,Nacional ,6,16
+17/02/2019, 127000 ,Evento economico,Internos local,Nacional ,6,16
+20/02/2019, 30000 ,Evento economico,Internos local,Nacional ,6,16
+21/02/2019, 300000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/02/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+24/02/2019, 1000000 ,Evento Siniestro,Afectacion ambiental,Nacional ,4,11
+01/03/2019, 250000 ,Evento economico,Internos local,Nacional ,6,16
+02/03/2019, 20000 ,Evento economico,Internos local,Nacional ,6,16
+04/03/2019, 510000 ,Evento economico,Internos local,Nacional ,6,16
+05/03/2019, 60000 ,Evento economico,Internos local,Nacional ,6,16
+06/03/2019, 350000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+11/03/2019, 320000 ,Evento economico,Comercio internacional,Nacional ,6,15
+12/03/2019, 2865000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+13/03/2019, 120000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+14/03/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+15/03/2019, 50000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+19/03/2019, 100000 ,Evento de farandula,Ciencia,Nacional ,5,14
+20/03/2019, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/03/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+25/03/2019, 30000 ,Evento festivo,dias de descanso,Nacional ,3,7
+26/03/2019, 225000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+29/03/2019, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+30/03/2019, 600000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+03/04/2019, 150000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+04/04/2019, 500000 ,Evento economico,Comercio internacional,Nacional ,6,15
+05/04/2019, 280000 ,Evento economico,Comercio internacional,Nacional ,6,15
+09/04/2019, 200000 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/04/2019, 200000 ,Evento economico,Comercio internacional,Nacional ,6,15
+12/04/2019, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+14/04/2019, 300000 ,Evento economico,Comercio internacional,Nacional ,6,15
+16/04/2019, 350000 ,Evento politico,Internacional,Nacional ,2,5
+17/04/2019, 75000 ,Evento deportivo,Alto impacto,Nacional ,1,1
+18/04/2019, 120000 ,Evento festivo,dias de descanso,Nacional ,3,7
+19/04/2019, 220000 ,Evento festivo,dias de descanso,Nacional ,3,7
+20/04/2019, 300000 ,Evento economico,Comercio internacional,Internacional,6,15
+21/04/2019, 150000 ,Evento Siniestro,Afectacion ambiental,Nacional ,4,11
+22/04/2019, 500000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+24/04/2019, 50000 ,Evento economico,Comercio internacional,Internacional,6,15
+26/04/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+27/04/2019, 120000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+28/04/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+29/04/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+03/05/2019, 20000 ,Evento economico,Internos local,Nacional ,6,16
+07/05/2019, 52500 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/05/2019, 500000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+16/05/2019, 50000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+17/05/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+20/05/2019, 50000 ,Evento politico,Internacional,Internacional,2,5
+22/05/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+24/05/2019, 50000 ,Evento politico,Internacional,Internacional,2,5
+25/05/2019, 140000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+29/05/2019, 270000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+31/05/2019, 50000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+05/06/2019, 50000 ,Evento economico,Comercio internacional,Nacional ,6,15
+06/06/2019, 90000 ,Evento economico,Internos local,Nacional ,6,16
+07/06/2019, 400000 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/06/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+11/06/2019, 230000 ,Evento economico,Comercio internacional,Nacional ,6,15
+14/06/2019, 500000 ,Evento economico,Internos local,Nacional ,6,16
+19/06/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+20/06/2019, 20000 ,Evento de farandula,Actualidad,Nacional ,5,13
+22/06/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+24/06/2019, 30000 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/06/2019, 300000 ,Evento economico,Internos local,Nacional ,6,16
+26/06/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+27/06/2019, 100000 ,Evento politico,Internacional,Internacional,2,5
+28/06/2019, 450000 ,Evento deportivo,Impacto local,Nacional ,1,2
+01/07/2019, 20000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/07/2019, 20000 ,Evento economico,Internos local,Nacional ,6,16
+03/07/2019, 300000 ,Evento economico,Internos local,Internacional,6,16
+04/07/2019, 1250000 ,Evento economico,Comercio internacional,Internacional,6,15
+08/07/2019, 70000 ,Evento economico,Internos local,Nacional ,6,16
+10/07/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+11/07/2019, 200000 ,Evento economico,Internos local,Nacional ,6,16
+13/07/2019, 350000 ,Evento economico,Comercio internacional,Internacional,6,15
+14/07/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+16/07/2019, 133000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+17/07/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+21/07/2019, 300000 ,Evento economico,Internos local,Nacional ,6,16
+22/07/2019, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+23/07/2019, 200000 ,Evento economico,Comercio internacional,Internacional,6,15
+27/07/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+28/07/2019, 150000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+29/07/2019, 200000 ,Evento economico,Internos local,Nacional ,6,16
+31/07/2019, 30000 ,Evento economico,Internos local,Nacional ,6,16
+01/08/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+02/08/2019, 225000 ,Evento economico,Internos local,Nacional ,6,16
+05/08/2019, 800000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+11/08/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+12/08/2019, 20000 ,Evento economico,Internos local,Nacional ,6,16
+13/08/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+14/08/2019, 230000 ,Evento politico,Internacional,Internacional,2,5
+17/08/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+19/08/2019, 20000 ,Evento festivo,dias de descanso,Nacional ,3,7
+21/08/2019, 200000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/08/2019, 630000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+23/08/2019, 500000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+24/08/2019, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+26/08/2019, 280000 ,Evento economico,Internos local,Nacional ,6,16
+27/08/2019, 40000 ,Evento economico,Internos local,Nacional ,6,16
+28/08/2019, 136500 ,Evento economico,Internos local,Nacional ,6,16
+29/08/2019, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+30/08/2019, 30000 ,Evento economico,Internos local,Nacional ,6,16
+02/09/2019, 800000 ,Evento economico,Internos local,Nacional ,6,16
+04/09/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+05/09/2019, 10000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+07/09/2019, 1000000 ,Evento economico,Comercio internacional,Internacional,6,15
+08/09/2019, 119000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+09/09/2019, 620000 ,Evento politico,Internacional,Internacional,2,5
+10/09/2019, 150000 ,Evento economico,Comercio internacional,Internacional,6,15
+12/09/2019, 450000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+14/09/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+17/09/2019, 50000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+20/09/2019, 800000 ,Evento economico,Internos local,Nacional ,6,16
+21/09/2019, 470000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+23/09/2019, 100000 ,Evento social,Paro publico,Nacional ,8,18
+24/09/2019, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+26/09/2019, 105000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+27/09/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+01/10/2019, 400000 ,Evento economico,Comercio internacional,Nacional ,6,15
+02/10/2019, 252500 ,Evento economico,Internos local,Nacional ,6,16
+04/10/2019, 450000 ,Evento economico,Comercio internacional,Nacional ,6,15
+07/10/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+08/10/2019, 130000 ,Evento economico,Internos local,Nacional ,6,16
+09/10/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+10/10/2019, 600000 ,Evento economico,Comercio internacional,Nacional ,6,15
+13/10/2019, 350000 ,Evento de farandula,Actualidad,Nacional ,5,13
+14/10/2019, 100000 ,Evento festivo,dias de descanso,Nacional ,3,7
+18/10/2019, 120000 ,Evento economico,Comercio internacional,Nacional ,6,15
+22/10/2019, 30000 ,Evento economico,Internos local,Nacional ,6,16
+23/10/2019, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+24/10/2019, 60000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+25/10/2019, 100000 ,Evento social,Paro publico,Internacional,8,18
+28/10/2019, 850000 ,Evento economico,Internos local,Nacional ,6,16
+30/10/2019, 50000 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+03/11/2019, 30000 ,Evento politico,Internacional,Internacional,2,5
+04/11/2019, 360000 ,Evento festivo,dias de descanso,Nacional ,3,7
+05/11/2019, 50000 ,Evento politico,Internacional,Internacional,2,5
+06/11/2019, 400000 ,Evento politico,Internacional,Internacional,2,5
+09/11/2019, 30000 ,Evento politico,Internacional,Internacional,2,5
+12/11/2019, 1000000 ,Evento economico,Internos local,Nacional ,6,16
+13/11/2019, 225000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+14/11/2019, 75000 ,Evento economico,Comercio internacional,Nacional ,6,15
+17/11/2019, 250000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+18/11/2019, 30000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+21/11/2019, 55000 ,Evento social,Paro publico,Nacional ,8,18
+23/11/2019, 600000 ,Evento politico,Internacional,Internacional,2,5
+24/11/2019, 400000 ,Evento social,Paro publico,Nacional ,8,18
+27/11/2019, 400000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+28/11/2019, 245000 ,Evento economico,Internos local,Nacional ,6,16
+01/12/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+02/12/2019, 700000 ,Evento economico,Internos local,Nacional ,6,16
+03/12/2019, 650000 ,Evento economico,Internos local,Nacional ,6,16
+07/12/2019, 80000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+08/12/2019, 100000 ,Evento festivo,dias de descanso,Nacional ,3,7
+10/12/2019, 100000 ,Evento economico,Internos local,Nacional ,6,16
+11/12/2019, 300000 ,Evento de farandula,Ciencia,Nacional ,5,14
+12/12/2019, 614000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+13/12/2019, 150000 ,Evento economico,Internos local,Nacional ,6,16
+19/12/2019, 140000 ,Evento economico,Internos local,Nacional ,6,16
+20/12/2019, 400000 ,Evento economico,Internos local,Nacional ,6,16
+21/12/2019, 400000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+22/12/2019, 330000 ,Evento economico,Internos local,Nacional ,6,16
+23/12/2019, 50000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+24/12/2019, 100000 ,Evento festivo,dias de descanso,Nacional ,3,7
+26/12/2019, 300000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+27/12/2019, 250000 ,Evento economico,Internos local,Nacional ,6,16
+30/12/2019, 50000 ,Evento economico,Internos local,Nacional ,6,16
+03/01/2020, 720000 ,Evento politico,Internacional,Internacional,2,5
+05/01/2020, 50000 ,Evento economico,Comercio internacional,Nacional ,6,15
+06/01/2020, 200000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+12/01/2020, 40000 ,Evento economico,Internos local,Nacional ,6,16
+13/01/2020, 25000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+15/01/2020, 343610 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+18/01/2020, 75000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/01/2020, 50000 ,Evento economico,Internos local,Nacional ,6,16
+20/01/2020, 20000 ,Evento de salud publica,Internos local,Nacional ,9,16
+21/01/2020, 64000 ,Evento social,Paro publico,Nacional ,8,18
+25/01/2020, 300000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+26/01/2020, 300000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+28/01/2020, 420000 ,Evento economico,Comercio internacional,Internacional,6,15
+29/01/2020, 100000 ,Evento economico,Internos local,Nacional ,6,16
+30/01/2020, 100000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+31/01/2020, 535000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+01/02/2020, 50000 ,Evento economico,Internos local,Nacional ,6,16
+02/02/2020, 100000 ,Evento economico,Internos local,Nacional ,6,16
+05/02/2020, 50000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+06/02/2020, 100000 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/02/2020, 80000 ,Evento social,Paro publico,Nacional ,8,18
+14/02/2020, 430000 ,Evento economico,Internos local,Nacional ,6,16
+16/02/2020, 105000 ,Evento economico,Internos local,Nacional ,6,16
+19/02/2020, 63000 ,Evento economico,Internos local,Nacional ,6,16
+20/02/2020, 100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+21/02/2020, 100000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+22/02/2020, 50000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+23/02/2020, 150000 ,Evento economico,Internos local,Nacional ,6,16
+26/02/2020, 330000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+02/03/2020, 450000 ,Evento economico,Internos local,Nacional ,6,16
+03/03/2020, 30000 ,Evento economico,Internos local,Nacional ,6,16
+06/03/2020, 200000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+09/03/2020, 100000 ,Evento economico,Comercio internacional,Internacional,6,15
+10/03/2020, 450000 ,Evento economico,Comercio internacional,Nacional ,6,15
+11/03/2020, 350000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+16/03/2020, 700000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+17/03/2020, 230000 ,Evento economico,Comercio internacional,Nacional ,6,15
+18/03/2020, 100000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/03/2020, 470000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+20/03/2020, 6435368 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+21/03/2020, 41330000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+22/03/2020, 39355974 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+23/03/2020, 57141000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+24/03/2020, 22573000 ,Evento economico,Internos local,Nacional ,6,16
+25/03/2020, 20511000 ,Evento festivo,dias de descanso,Nacional ,3,7
+26/03/2020, 21275000 ,Evento economico,Internos local,Nacional ,6,16
+27/03/2020, 61043000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+28/03/2020, 40892900 ,Evento economico,Internos local,Nacional ,6,16
+29/03/2020, 41025001 ,Evento economico,Internos local,Nacional ,6,16
+30/03/2020, 38464000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+31/03/2020, 44547000 ,Evento economico,Internos local,Nacional ,6,16
+01/04/2020, 48883540 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+02/04/2020, 24013000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+03/04/2020, 33943900 ,Evento economico,Comercio internacional,Nacional ,6,15
+04/04/2020, 34586600 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+05/04/2020, 47747230 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+06/04/2020, 39618000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+07/04/2020, 52886000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+08/04/2020, 34907000 ,Evento economico,Internos local,Nacional ,6,16
+09/04/2020, 13966495 ,Evento economico,Internos local,Nacional ,6,16
+10/04/2020, 38511001 ,Evento economico,Internos local,Nacional ,6,16
+11/04/2020, 17995000 ,Evento economico,Internos local,Nacional ,6,16
+12/04/2020, 30894900 ,Evento economico,Comercio internacional,Nacional ,6,15
+13/04/2020, 22646000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+14/04/2020, 26510000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+15/04/2020, 24955000 ,Evento economico,Internos local,Nacional ,6,16
+16/04/2020, 22850000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+17/04/2020, 12780000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+18/04/2020, 10200000 ,Evento festivo,dias de descanso,Nacional ,3,7
+19/04/2020, 27423000 ,Evento festivo,dias de descanso,Nacional ,3,7
+20/04/2020, 10095000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+21/04/2020, 14885000 ,Evento economico,Internos local,Nacional ,6,16
+22/04/2020, 11359000 ,Evento economico,Comercio internacional,Internacional,6,15
+23/04/2020, 11215000 ,Evento economico,Internos local,Nacional ,6,16
+24/04/2020, 11905000 ,Evento economico,Internos local,Nacional ,6,16
+25/04/2020, 4905000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+26/04/2020, 6470000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+27/04/2020, 11680000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+28/04/2020, 9335000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+29/04/2020, 7785000 ,Evento economico,Comercio internacional,Nacional ,6,15
+30/04/2020, 7270000 ,Evento economico,Comercio internacional,Nacional ,6,15
+01/05/2020, 9384000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/05/2020, 7598280 ,Evento economico,Comercio internacional,Internacional,6,15
+03/05/2020, 7976462 ,Evento economico,Comercio internacional,Nacional ,6,15
+04/05/2020, 7490000 ,Evento economico,Internos local,Nacional ,6,16
+05/05/2020, 7349000 ,Evento economico,Internos local,Nacional ,6,16
+06/05/2020, 23427000 ,Evento economico,Internos local,Nacional ,6,16
+07/05/2020, 17663233 ,Evento economico,Internos local,Nacional ,6,16
+08/05/2020, 5808000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+09/05/2020, 10005000 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/05/2020, 9765000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+11/05/2020, 7285000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+12/05/2020, 6515000 ,Evento economico,Internos local,Nacional ,6,16
+13/05/2020, 8011000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+14/05/2020, 5607000 ,Evento economico,Comercio internacional,Nacional ,6,15
+15/05/2020, 7318000 ,Evento economico,Comercio internacional,Internacional,6,15
+16/05/2020, 6720000 ,Evento economico,Comercio internacional,Internacional,6,15
+17/05/2020, 6990000 ,Evento economico,Comercio internacional,Internacional,6,15
+18/05/2020, 4851000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/05/2020, 7360000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+20/05/2020, 7105000 ,Evento economico,Internos local,Nacional ,6,16
+21/05/2020, 4530000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+22/05/2020, 4135000 ,Evento economico,Internos local,Nacional ,6,16
+23/05/2020, 2695000 ,Evento economico,Internos local,Nacional ,6,16
+24/05/2020, 4379200 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+25/05/2020, 5225000 ,Evento economico,Internos local,Nacional ,6,16
+26/05/2020, 7220000 ,Evento social,Paro publico,Internacional,8,18
+27/05/2020, 6400000 ,Evento economico,Internos local,Nacional ,6,16
+28/05/2020, 4820000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+29/05/2020, 5885000 ,Evento politico,Consultas y decisiones,Internacional,2,6
+30/05/2020, 10511000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+31/05/2020, 5145000 ,Evento economico,Internos local,Nacional ,6,16
+01/06/2020, 12170000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+02/06/2020, 8953200 ,Evento economico,Internos local,Nacional ,6,16
+03/06/2020, 6667000 ,Evento festivo,dias de descanso,Nacional ,3,7
+04/06/2020, 4955000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+05/06/2020, 11400000 ,Evento economico,Internos local,Nacional ,6,16
+06/06/2020, 4275000 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+07/06/2020, 1695000 ,Evento economico,Internos local,Nacional ,6,16
+08/06/2020, 7470000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+09/06/2020, 4865000 ,Evento economico,Internos local,Nacional ,6,16
+10/06/2020, 5658000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+11/06/2020, 9210000 ,Evento economico,Internos local,Nacional ,6,16
+12/06/2020, 9330000 ,Evento politico,Internacional,Internacional,2,5
+13/06/2020, 17393000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+14/06/2020, 12485000 ,Evento economico,Internos local,Nacional ,6,16
+15/06/2020, 3407000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+16/06/2020, 3086000 ,Evento economico,Internos local,Nacional ,6,16
+17/06/2020, 2565000 ,Evento economico,Internos local,Nacional ,6,16
+18/06/2020, 2322000 ,Evento economico,Internos local,Nacional ,6,16
+19/06/2020, 3950000 ,Evento economico,Internos local,Nacional ,6,16
+20/06/2020, 2315000 ,Evento economico,Internos local,Nacional ,6,16
+21/06/2020, 1915000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+22/06/2020, 1170000 ,Evento economico,Internos local,Nacional ,6,16
+23/06/2020, 4600000 ,Evento economico,Internos local,Nacional ,6,16
+24/06/2020, 2400000 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/06/2020, 6175000 ,Evento economico,Internos local,Nacional ,6,16
+26/06/2020, 4870000 ,Evento economico,Internos local,Nacional ,6,16
+27/06/2020, 2916000 ,Evento economico,Internos local,Nacional ,6,16
+28/06/2020, 4630000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+29/06/2020, 4695000 ,Evento economico,Internos local,Nacional ,6,16
+30/06/2020, 3974000 ,Evento deportivo,Impacto local,Nacional ,1,2
+01/07/2020, 5907001 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/07/2020, 3775000 ,Evento economico,Internos local,Nacional ,6,16
+03/07/2020, 3023000 ,Evento economico,Internos local,Nacional ,6,16
+04/07/2020, 9384000 ,Evento economico,Internos local,Nacional ,6,16
+05/07/2020, 3370000 ,Evento economico,Internos local,Nacional ,6,16
+06/07/2020, 11140000 ,Evento economico,Comercio internacional,Internacional,6,15
+07/07/2020, 9505000 ,Evento economico,Internos local,Nacional ,6,16
+08/07/2020, 6216462 ,Evento economico,Internos local,Nacional ,6,16
+09/07/2020, 10875351 ,Evento economico,Comercio internacional,Nacional ,6,15
+10/07/2020, 3997000 ,Evento social,Paro publico,Nacional ,8,18
+11/07/2020, 4966000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+12/07/2020, 7740000 ,Evento economico,Internos local,Nacional ,6,16
+13/07/2020, 5550000 ,Evento economico,Internos local,Nacional ,6,16
+14/07/2020, 5135000 ,Evento economico,Internos local,Nacional ,6,16
+15/07/2020, 8230000 ,Evento economico,Internos local,Nacional ,6,16
+16/07/2020, 6508000 ,Evento economico,Comercio internacional,Nacional ,6,15
+17/07/2020, 3349000 ,Evento economico,Comercio internacional,Internacional,6,15
+18/07/2020, 13295000 ,Evento economico,Comercio internacional,Internacional,6,15
+19/07/2020, 1537382 ,Evento economico,Comercio internacional,Internacional,6,15
+20/07/2020, 3600000 ,Evento festivo,dias de descanso,Nacional ,3,7
+21/07/2020, 4318652 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+22/07/2020, 4052000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+23/07/2020, 4610000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+24/07/2020, 12564574 ,Evento economico,Internos local,Nacional ,6,16
+25/07/2020, 5182500 ,Evento economico,Internos local,Nacional ,6,16
+26/07/2020, 3680000 ,Evento economico,Comercio internacional,Internacional,6,15
+27/07/2020, 11450000 ,Evento economico,Comercio internacional,Internacional,6,15
+28/07/2020, 4145000 ,Evento economico,Comercio internacional,Nacional ,6,15
+29/07/2020, 2795000 ,Evento economico,Internos local,Nacional ,6,16
+30/07/2020, 4220000 ,Evento economico,Internos local,Nacional ,6,16
+31/07/2020, 4774000 ,Evento economico,Internos local,Nacional ,6,16
+01/08/2020, 6020000 ,Evento de salud publica,Internos local,Nacional ,9,16
+02/08/2020, 13890000 ,Evento economico,Internos local,Nacional ,6,16
+03/08/2020, 15620000 ,Evento economico,Internos local,Nacional ,6,16
+04/08/2020, 11430000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+05/08/2020, 5648000 ,Evento economico,Comercio internacional,Nacional ,6,15
+06/08/2020, 3570000 ,Evento economico,Comercio internacional,Internacional,6,15
+07/08/2020, 3205000 ,Evento festivo,dias de descanso,Nacional ,3,7
+08/08/2020, 18215000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+09/08/2020, 8405000 ,Evento economico,Internos local,Nacional ,6,16
+10/08/2020, 5045000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+11/08/2020, 3251000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+12/08/2020, 5470000 ,Evento economico,Internos local,Nacional ,6,16
+13/08/2020, 11985000 ,Evento economico,Internos local,Nacional ,6,16
+14/08/2020, 3763300 ,Evento economico,Internos local,Nacional ,6,16
+15/08/2020, 2304000 ,Evento economico,Internos local,Nacional ,6,16
+16/08/2020, 3620000 ,Evento economico,Internos local,Nacional ,6,16
+17/08/2020, 3109000 ,Evento economico,Internos local,Nacional ,6,16
+18/08/2020, 4020000 ,Evento economico,Internos local,Nacional ,6,16
+19/08/2020, 2630000 ,Evento festivo,dias de descanso,Nacional ,3,7
+20/08/2020, 2495000 ,Evento economico,Internos local,Nacional ,6,16
+21/08/2020, 2125000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+22/08/2020, 4759574 ,Evento festivo,Aniversario,Nacional ,3,8
+23/08/2020, 4770000 ,Evento economico,Internos local,Nacional ,6,16
+24/08/2020, 7457174 ,Evento economico,Internos local,Nacional ,6,16
+25/08/2020, 3261000 ,Evento economico,Comercio internacional,Internacional,6,15
+26/08/2020, 11980000 ,Evento economico,Internos local,Nacional ,6,16
+27/08/2020, 3100000 ,Evento de farandula,Actualidad,Nacional ,5,13
+28/08/2020, 5080000 ,Evento economico,Internos local,Nacional ,6,16
+29/08/2020, 2985000 ,Evento economico,Internos local,Nacional ,6,16
+30/08/2020, 1580000 ,Evento economico,Internos local,Nacional ,6,16
+31/08/2020, 6816000 ,Evento economico,Internos local,Internacional,6,16
+01/09/2020, 5840000 ,Evento economico,Internos local,Nacional ,6,16
+02/09/2020, 2774638 ,Evento economico,Internos local,Nacional ,6,16
+03/09/2020, 3580000 ,Evento economico,Comercio internacional,Nacional ,6,15
+04/09/2020, 13421000 ,Evento politico,Internacional,Internacional,2,5
+05/09/2020, 2252000 ,Evento economico,Internos local,Nacional ,6,16
+06/09/2020, 1866363 ,Evento economico,Internos local,Nacional ,6,16
+07/09/2020, 3396000 ,Evento economico,Internos local,Nacional ,6,16
+08/09/2020, 2955000 ,Evento economico,Internos local,Nacional ,6,16
+09/09/2020, 4041624 ,Evento social,Paro publico,Nacional ,8,18
+10/09/2020, 2080000 ,Evento economico,Internos local,Nacional ,6,16
+11/09/2020, 1792000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+12/09/2020, 1730000 ,Evento economico,Internos local,Nacional ,6,16
+13/09/2020, 3985000 ,Evento economico,Internos local,Nacional ,6,16
+14/09/2020, 1995000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+15/09/2020, 2015000 ,Evento economico,Internos local,Nacional ,6,16
+16/09/2020, 4500000 ,Evento economico,Internos local,Nacional ,6,16
+17/09/2020, 2960000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+18/09/2020, 1275000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+19/09/2020, 1380000 ,Evento economico,Internos local,Nacional ,6,16
+20/09/2020, 5755000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+21/09/2020, 11000000 ,Evento social,Paro publico,Nacional ,8,18
+22/09/2020, 2515373 ,Evento economico,Internos local,Nacional ,6,16
+23/09/2020, 13320000 ,Evento economico,Internos local,Nacional ,6,16
+24/09/2020, 2860000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+25/09/2020, 8490000 ,Evento social,Paro publico,Nacional ,8,18
+26/09/2020, 2320000 ,Evento economico,Internos local,Nacional ,6,16
+27/09/2020, 1950000 ,Evento economico,Internos local,Nacional ,6,16
+28/09/2020, 752000 ,Evento economico,Internos local,Nacional ,6,16
+29/09/2020, 1880000 ,Evento economico,Internos local,Nacional ,6,16
+30/09/2020, 4034000 ,Evento economico,Internos local,Nacional ,6,16
+01/10/2020, 3457672 ,Evento economico,Internos local,Nacional ,6,16
+02/10/2020, 1710200 ,Evento economico,Internos local,Nacional ,6,16
+03/10/2020, 5354574 ,Evento economico,Internos local,Nacional ,6,16
+04/10/2020, 3540000 ,Evento economico,Internos local,Nacional ,6,16
+05/10/2020, 4540000 ,Evento economico,Internos local,Nacional ,6,16
+06/10/2020, 7682000 ,Evento economico,Internos local,Nacional ,6,16
+07/10/2020, 1370381 ,Evento economico,Internos local,Nacional ,6,16
+08/10/2020, 1745000 ,Evento economico,Internos local,Nacional ,6,16
+09/10/2020, 5074673 ,Evento economico,Internos local,Nacional ,6,16
+10/10/2020, 940000 ,Evento economico,Internos local,Nacional ,6,16
+11/10/2020, 420000 ,Evento economico,Internos local,Nacional ,6,16
+12/10/2020, 4481000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+13/10/2020, 1060000 ,Evento economico,Internos local,Nacional ,6,16
+14/10/2020, 1745000 ,Evento festivo,dias de descanso,Nacional ,3,7
+15/10/2020, 3960000 ,Evento economico,Internos local,Nacional ,6,16
+16/10/2020, 13500000 ,Evento economico,Comercio internacional,Internacional,6,15
+17/10/2020, 4840000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+18/10/2020, 6715000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/10/2020, 10296000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+20/10/2020, 15673000 ,Evento economico,Internos local,Nacional ,6,16
+21/10/2020, 14205000 ,Evento economico,Internos local,Nacional ,6,16
+22/10/2020, 5210000 ,Evento economico,Comercio internacional,Nacional ,6,15
+23/10/2020, 4832000 ,Evento economico,Internos local,Nacional ,6,16
+24/10/2020, 2780000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+25/10/2020, 14800000 ,Evento economico,Internos local,Nacional ,6,16
+26/10/2020, 4190000 ,Evento economico,Internos local,Nacional ,6,16
+27/10/2020, 8214000 ,Evento economico,Internos local,Nacional ,6,16
+28/10/2020, 4776000 ,Evento politico,Internacional,Internacional,2,5
+29/10/2020, 3224000 ,Evento economico,Internos local,Nacional ,6,16
+30/10/2020, 12360000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+31/10/2020, 5628376 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+01/11/2020, 1760000 ,Evento economico,Internos local,Nacional ,6,16
+02/11/2020, 4545000 ,Evento economico,Comercio internacional,Nacional ,6,15
+03/11/2020, 8900000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+04/11/2020, 5230000 ,Evento festivo,dias de descanso,Nacional ,3,7
+05/11/2020, 2765000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+06/11/2020, 7315000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+07/11/2020, 1687000 ,Evento politico,Elecciones,Internacional,2,3
+08/11/2020, 2810000 ,Evento economico,Internos local,Nacional ,6,16
+09/11/2020, 5390000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+10/11/2020, 2030000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+11/11/2020, 8885000 ,Evento festivo,dias de descanso,Nacional ,3,7
+12/11/2020, 12286000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+13/11/2020, 10305000 ,Evento economico,Comercio internacional,Nacional ,6,15
+14/11/2020, 10161000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+15/11/2020, 10172000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+16/11/2020, 9659000 ,Evento politico,Internacional,Internacional,2,5
+17/11/2020, 16874000 ,Evento economico,Internos local,Nacional ,6,16
+18/11/2020, 21841000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/11/2020, 13748513 ,Evento economico,Internos local,Nacional ,6,16
+20/11/2020, 8955000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+21/11/2020, 3935000 ,Evento economico,Internos local,Nacional ,6,16
+22/11/2020, 24045000 ,Evento economico,Internos local,Nacional ,6,16
+23/11/2020, 8540000 ,Evento economico,Internos local,Nacional ,6,16
+24/11/2020, 7468319 ,Evento economico,Internos local,Nacional ,6,16
+25/11/2020, 5500000 ,Evento economico,Internos local,Nacional ,6,16
+26/11/2020, 7930000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+27/11/2020, 10105000 ,Evento politico,Internacional,Internacional,2,5
+28/11/2020, 13390000 ,Evento economico,Internos local,Nacional ,6,16
+29/11/2020, 3075000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+30/11/2020, 7420000 ,Evento economico,Comercio internacional,Nacional ,6,15
+01/12/2020, 15525000 ,Evento economico,Comercio internacional,Nacional ,6,15
+02/12/2020, 22649990 ,Evento economico,Internos local,Nacional ,6,16
+03/12/2020, 7811090 ,Evento economico,Internos local,Nacional ,6,16
+04/12/2020, 7352000 ,Evento economico,Internos local,Nacional ,6,16
+05/12/2020, 2610000 ,Evento economico,Internos local,Nacional ,6,16
+06/12/2020, 4794000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+07/12/2020, 3430000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+08/12/2020, 8397330 ,Evento festivo,dias de descanso,Nacional ,3,7
+09/12/2020, 7686000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+10/12/2020, 7465000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+11/12/2020, 23320000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+12/12/2020, 5617000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+13/12/2020, 6421000 ,Evento economico,Internos local,Nacional ,6,16
+14/12/2020, 23865000 ,Evento economico,Internos local,Nacional ,6,16
+15/12/2020, 14300000 ,Evento economico,Internos local,Nacional ,6,16
+16/12/2020, 10281365 ,Evento de farandula,Actualidad,Nacional ,5,13
+17/12/2020, 11424179 ,Evento economico,Internos local,Nacional ,6,16
+18/12/2020, 6323400 ,Evento economico,Internos local,Nacional ,6,16
+19/12/2020, 6090000 ,Evento economico,Internos local,Nacional ,6,16
+20/12/2020, 7310000 ,Evento economico,Internos local,Nacional ,6,16
+21/12/2020, 18010000 ,Evento economico,Internos local,Nacional ,6,16
+22/12/2020, 9480000 ,Evento Siniestro,Afectacion ambiental,Nacional ,4,11
+23/12/2020, 15085000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+24/12/2020, 16790000 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/12/2020, 2650000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+26/12/2020, 4285000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+27/12/2020, 4287000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+28/12/2020, 13420000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+29/12/2020, 13745000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+30/12/2020, 7890000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+31/12/2020, 6450000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+01/01/2021, 950000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/01/2021, 2100000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+03/01/2021, 4090000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+04/01/2021, 5876380 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+05/01/2021, 2842513 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+06/01/2021, 3180000 ,Evento social,Paro publico,Internacional,8,18
+07/01/2021, 3300000 ,Evento festivo,dias de descanso,Nacional ,3,7
+08/01/2021, 5590000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+09/01/2021, 3225000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+10/01/2021, 2195000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+11/01/2021, 1980000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+12/01/2021, 3300000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+13/01/2021, 2520000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+14/01/2021, 3610000 ,Evento economico,Internos local,Nacional ,6,16
+15/01/2021, 9475000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+16/01/2021, 2100000 ,Evento economico,Internos local,Nacional ,6,16
+17/01/2021, 1485000 ,Evento economico,Internos local,Nacional ,6,16
+18/01/2021, 7211000 ,Evento economico,Internos local,Nacional ,6,16
+19/01/2021, 3825900 ,Evento de farandula,Actualidad,Nacional ,5,13
+20/01/2021, 3360000 ,Evento economico,Internos local,Nacional ,6,16
+21/01/2021, 4114000 ,Evento economico,Internos local,Nacional ,6,16
+22/01/2021, 3100000 ,Evento economico,Internos local,Nacional ,6,16
+23/01/2021, 4030000 ,Evento economico,Internos local,Nacional ,6,16
+24/01/2021, 3965000 ,Evento economico,Internos local,Nacional ,6,16
+25/01/2021, 5890000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+26/01/2021, 4810000 ,Evento economico,Internos local,Nacional ,6,16
+27/01/2021, 10840000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+28/01/2021, 8660000 ,Evento economico,Internos local,Nacional ,6,16
+29/01/2021, 3555000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+30/01/2021, 4370000 ,Evento de salud publica,Internos local,Nacional ,9,16
+31/01/2021, 2840000 ,Evento economico,Internos local,Nacional ,6,16
+01/02/2021, 5725000 ,Evento economico,Internos local,Nacional ,6,16
+02/02/2021, 3416000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+03/02/2021, 6485000 ,Evento politico,Internacional,Internacional,2,5
+04/02/2021, 3970000 ,Evento politico,Internacional,Internacional,2,5
+05/02/2021, 2685000 ,Evento economico,Internos local,Nacional ,6,16
+06/02/2021, 2250000 ,Evento economico,Comercio internacional,Nacional ,6,15
+07/02/2021, 4025000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+08/02/2021, 3053300 ,Evento economico,Internos local,Nacional ,6,16
+09/02/2021, 2230000 ,Evento economico,Internos local,Nacional ,6,16
+10/02/2021, 1780319 ,Evento economico,Internos local,Nacional ,6,16
+11/02/2021, 4520000 ,Evento economico,Internos local,Nacional ,6,16
+12/02/2021, 2900000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+13/02/2021, 6530000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+14/02/2021, 3801000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+15/02/2021, 5360000 ,Evento economico,Internos local,Nacional ,6,16
+16/02/2021, 4655000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+17/02/2021, 4375000 ,Evento economico,Internos local,Nacional ,6,16
+18/02/2021, 1575000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/02/2021, 2755000 ,Evento economico,Internos local,Nacional ,6,16
+20/02/2021, 1790000 ,Evento economico,Internos local,Nacional ,6,16
+21/02/2021, 2320000 ,Evento economico,Internos local,Nacional ,6,16
+22/02/2021, 6440000 ,Evento economico,Internos local,Nacional ,6,16
+23/02/2021, 2906000 ,Evento economico,Internos local,Nacional ,6,16
+24/02/2021, 2902000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+25/02/2021, 3835000 ,Evento economico,Internos local,Nacional ,6,16
+26/02/2021, 20450000 ,Evento economico,Internos local,Nacional ,6,16
+27/02/2021, 2403000 ,Evento economico,Internos local,Nacional ,6,16
+28/02/2021, 3605000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+01/03/2021, 5105000 ,Evento economico,Internos local,Nacional ,6,16
+02/03/2021, 4496000 ,Evento economico,Internos local,Nacional ,6,16
+03/03/2021, 6825000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+04/03/2021, 3610000 ,Evento economico,Internos local,Nacional ,6,16
+05/03/2021, 4220200 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+06/03/2021, 2248700 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+07/03/2021, 4465000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+08/03/2021, 8325000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+09/03/2021, 9435267 ,Evento economico,Internos local,Nacional ,6,16
+10/03/2021, 4540000 ,Evento economico,Internos local,Nacional ,6,16
+11/03/2021, 2430000 ,Evento de farandula,Actualidad,Nacional ,5,13
+12/03/2021, 10508000 ,Evento economico,Internos local,Nacional ,6,16
+13/03/2021, 2370000 ,Evento economico,Internos local,Nacional ,6,16
+14/03/2021, 2859000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+15/03/2021, 5931500 ,Evento economico,Internos local,Nacional ,6,16
+16/03/2021, 2450000 ,Evento economico,Internos local,Nacional ,6,16
+17/03/2021, 2550000 ,Evento economico,Internos local,Nacional ,6,16
+18/03/2021, 3716000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/03/2021, 2403000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+20/03/2021, 1280000 ,Evento economico,Internos local,Nacional ,6,16
+21/03/2021, 2665000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+22/03/2021, 3020000 ,Evento economico,Internos local,Nacional ,6,16
+23/03/2021, 6336000 ,Evento economico,Internos local,Nacional ,6,16
+24/03/2021, 4075000 ,Evento economico,Internos local,Nacional ,6,16
+25/03/2021, 2685000 ,Evento festivo,dias de descanso,Nacional ,3,7
+26/03/2021, 2715000 ,Evento economico,Internos local,Nacional ,6,16
+27/03/2021, 2210000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+28/03/2021, 5900000 ,Evento economico,Internos local,Nacional ,6,16
+29/03/2021, 5290000 ,Evento economico,Internos local,Nacional ,6,16
+30/03/2021, 5500000 ,Evento Siniestro,Afectacion ambiental,Nacional ,4,11
+31/03/2021, 5215000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+01/04/2021, 3370000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+02/04/2021, 4479880 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+03/04/2021, 3775000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+04/04/2021, 3599000 ,Evento deportivo,Alto impacto,Internacional,1,1
+05/04/2021, 9425000 ,Evento politico,Internacional,Internacional,2,5
+06/04/2021, 4147500 ,Evento politico,Internacional,Internacional,2,5
+07/04/2021, 6257939 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+08/04/2021, 3156000 ,Evento politico,Internacional,Internacional,2,5
+09/04/2021, 6715000 ,Evento politico,Internacional,Internacional,2,5
+10/04/2021, 3586000 ,Evento de salud publica,Internos local,Internacional,9,16
+11/04/2021, 4495000 ,Evento politico,Internacional,Internacional,2,5
+12/04/2021, 5010000 ,Evento politico,Internacional,Internacional,2,5
+13/04/2021, 5300000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+14/04/2021, 2100000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+15/04/2021, 7477000 ,Evento economico,Internos local,Nacional ,6,16
+16/04/2021, 3456000 ,Evento de salud publica,Internos local,Nacional ,9,16
+17/04/2021, 4874000 ,Evento economico,Internos local,Nacional ,6,16
+18/04/2021, 11825000 ,Evento festivo,dias de descanso,Nacional ,3,7
+19/04/2021, 2610000 ,Evento festivo,dias de descanso,Nacional ,3,7
+20/04/2021, 2790000 ,Evento economico,Internos local,Nacional ,6,16
+21/04/2021, 2060000 ,Evento economico,Internos local,Nacional ,6,16
+22/04/2021, 2852000 ,Evento economico,Internos local,Nacional ,6,16
+23/04/2021, 2980000 ,Evento economico,Internos local,Nacional ,6,16
+24/04/2021, 1970000 ,Evento economico,Internos local,Nacional ,6,16
+25/04/2021, 1935000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+26/04/2021, 9723000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+27/04/2021, 6620840 ,Evento economico,Internos local,Nacional ,6,16
+28/04/2021, 3345000 ,Evento social,Paro publico,Nacional ,8,18
+29/04/2021, 3745000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+30/04/2021, 11870000 ,Evento economico,Internos local,Nacional ,6,16
+01/05/2021, 8370000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/05/2021, 7765000 ,Evento social,Paro publico,Nacional ,8,18
+03/05/2021, 9504000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+04/05/2021, 4050000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+05/05/2021, 6705000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+06/05/2021, 5312000 ,Evento social,Paro publico,Nacional ,8,18
+07/05/2021, 8915907 ,Evento economico,Internos local,Nacional ,6,16
+08/05/2021, 9444000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional ,7,17
+09/05/2021, 4290000 ,Evento politico,Internacional,Internacional,2,5
+10/05/2021, 8845000 ,Evento economico,Internos local,Nacional ,6,16
+11/05/2021, 6950000 ,Evento de salud publica,Internos local,Nacional ,9,16
+12/05/2021, 12185000 ,Evento economico,Internos local,Nacional ,6,16
+13/05/2021, 6358000 ,Evento economico,Internos local,Nacional ,6,16
+14/05/2021, 3826000 ,Evento economico,Internos local,Nacional ,6,16
+15/05/2021, 700000 ,Evento economico,Internos local,Nacional ,6,16
+16/05/2021, 2990000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+17/05/2021, 7115000 ,Evento economico,Comercio internacional,Internacional,6,15
+18/05/2021, 5240000 ,Evento politico,Internacional,Internacional,2,5
+19/05/2021, 5280000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+20/05/2021, 2850000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+21/05/2021, 3920000 ,Evento economico,Internos local,Nacional ,6,16
+22/05/2021, 1940000 ,Evento economico,Internos local,Nacional ,6,16
+23/05/2021, 775000 ,Evento economico,Comercio internacional,Nacional ,6,15
+24/05/2021, 1900000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+25/05/2021, 4975000 ,Evento social,Paro publico,Nacional ,8,18
+26/05/2021, 2665000 ,Evento economico,Internos local,Internacional,6,16
+27/05/2021, 3055000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+28/05/2021, 6300000 ,Evento economico,Comercio internacional,Nacional ,6,15
+29/05/2021, 5707000 ,Evento politico,Internacional,Internacional,2,5
+30/05/2021, 3350000 ,Evento deportivo,Alto impacto,Internacional,1,1
+31/05/2021, 22350000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+01/06/2021, 3870000 ,Evento social,Paro publico,Nacional ,8,18
+02/06/2021, 13474659 ,Evento social,Paro publico,Nacional ,8,18
+03/06/2021, 2778000 ,Evento festivo,dias de descanso,Nacional ,3,7
+04/06/2021, 2530000 ,Evento economico,Comercio internacional,Nacional ,6,15
+05/06/2021, 150000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+06/06/2021, 450000 ,Evento social,Paro publico,Nacional ,8,18
+07/06/2021, 900000 ,Evento politico,Internacional,Internacional,2,5
+08/06/2021, 4113192 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+09/06/2021, 3530000 ,Evento economico,Comercio internacional,Internacional,6,15
+10/06/2021, 2760000 ,Evento politico,Internacional,Internacional,2,5
+11/06/2021, 3900000 ,Evento deportivo,Alto impacto,Internacional,1,1
+12/06/2021, 2236000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+13/06/2021, 1600000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+14/06/2021, 2450000 ,Evento deportivo,Alto impacto,Internacional,1,1
+15/06/2021, 11358000 ,Evento social,Paro publico,Nacional ,8,18
+16/06/2021, 1990000 ,Evento politico,Internacional,Internacional,2,5
+17/06/2021, 2734200 ,Evento politico,Internacional,Internacional,2,5
+18/06/2021, 5940000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+19/06/2021, 1410000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+20/06/2021, 580000 ,Evento de farandula,Actualidad,Internacional,5,13
+21/06/2021, 15486000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+22/06/2021, 1600000 ,Evento social,Paro publico,Nacional ,8,18
+23/06/2021, 3430000 ,Evento de farandula,Actualidad,Internacional,5,13
+24/06/2021, 2790000 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/06/2021, 2265000 ,Evento politico,Internacional,Internacional,2,5
+26/06/2021, 3015000 ,Evento politico,Internacional,Internacional,2,5
+27/06/2021, 2750000 ,Evento politico,Internacional,Internacional,2,5
+28/06/2021, 10359000 ,Evento politico,Internacional,Internacional,2,5
+29/06/2021, 9081200 ,Evento politico,Internacional,Internacional,2,5
+30/06/2021, 5943000 ,Evento politico,Internacional,Internacional,2,5
+01/07/2021, 5170000 ,Evento festivo,dias de descanso,Nacional ,3,7
+02/07/2021, 5103550 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+03/07/2021, 4459300 ,Evento politico,Internacional,Internacional,2,5
+04/07/2021, 1560000 ,Evento politico,Internacional,Internacional,2,5
+05/07/2021, 3720000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+06/07/2021, 6405000 ,Evento politico,Internacional,Nacional ,2,5
+07/07/2021, 6974890 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+08/07/2021, 5315000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+09/07/2021, 4775000 ,Evento deportivo,Alto impacto,Internacional,1,1
+10/07/2021, 2250000 ,Evento politico,Internacional,Internacional,2,5
+11/07/2021, 1270000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+12/07/2021, 6267850 ,Evento politico,Internacional,Internacional,2,5
+13/07/2021, 3380500 ,Evento de farandula,Actualidad,Internacional,5,13
+14/07/2021, 2700000 ,Evento politico,Internacional,Internacional,2,5
+15/07/2021, 4853172 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+16/07/2021, 1440000 ,Evento politico,Internacional,Internacional,2,5
+17/07/2021, 770000 ,Evento politico,Internacional,Internacional,2,5
+18/07/2021, 1745000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+19/07/2021, 5175000 ,Evento deportivo,Alto impacto,Nacional ,1,1
+20/07/2021, 1578000 ,Evento social,Paro publico,Nacional ,8,18
+21/07/2021, 16737000 ,Evento deportivo,Alto impacto,Internacional,1,1
+22/07/2021, 3183000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+23/07/2021, 1650000 ,Evento politico,Internacional,Internacional,2,5
+24/07/2021, 2300000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+25/07/2021, 2960000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+26/07/2021, 3316528 ,Evento deportivo,Alto impacto,Internacional,1,1
+27/07/2021, 1820000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+28/07/2021, 2330000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+29/07/2021, 3740000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+30/07/2021, 9650000 ,Evento economico,Comercio internacional,Internacional,6,15
+31/07/2021, 5790000 ,Evento politico,Internacional,Internacional,2,5
+01/08/2021, 4425000 ,Evento politico,Internacional,Internacional,2,5
+02/08/2021, 6655000 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+03/08/2021, 5569000 ,Evento politico,Internacional,Internacional,2,5
+04/08/2021, 17350000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+05/08/2021, 7365000 ,Evento social,Paro publico,Nacional ,8,18
+06/08/2021, 6075000 ,Evento politico,Internacional,Internacional,2,5
+07/08/2021, 2740000 ,Evento festivo,dias de descanso,Nacional ,3,7
+08/08/2021, 1750000 ,Evento politico,Dialogos de Paz,Nacional ,2,4
+09/08/2021, 3154084 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+10/08/2021, 4981000 ,Evento economico,Comercio internacional,Nacional ,6,15
+11/08/2021, 4180950 ,Evento social,Poblacion migratoria,Internacional,8,19
+12/08/2021, 3963000 ,Evento economico,Comercio internacional,Internacional,6,15
+13/08/2021, 1820000 ,Evento Siniestro,Afectacion directa,Internacional,4,9
+14/08/2021, 500000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+15/08/2021, 868100 ,Evento politico,Elecciones,Internacional,2,3
+16/08/2021, 1763000 ,Evento de salud publica,Internos local,Internacional,9,16
+17/08/2021, 2980000 ,Evento social,Poblacion migratoria,Internacional,8,19
+18/08/2021, 1947000 ,Evento politico,Internacional,Internacional,2,5
+19/08/2021, 1245000 ,Evento festivo,dias de descanso,Nacional ,3,7
+20/08/2021, 2400000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+21/08/2021, 988000 ,Evento politico,Internacional,Internacional,2,5
+22/08/2021, 2210000 ,Evento festivo,Aniversario,Nacional ,3,8
+23/08/2021, 940000 ,Evento economico,Comercio internacional,Internacional,6,15
+24/08/2021, 3637500 ,Evento economico,Internos local,Internacional,6,16
+25/08/2021, 12830000 ,Evento Siniestro,Afectacion directa,Nacional ,4,9
+26/08/2021, 9398200 ,Evento de salud publica,Pandemia Covid - 19,Internacional,9,20
+27/08/2021, 9938500 ,Evento de farandula,Actualidad,Internacional,5,13
+28/08/2021, 1180000 ,Evento politico,Internacional,Internacional,2,5
+29/08/2021, 3165000 ,Evento deportivo,Alto impacto,Internacional,1,1
+30/08/2021, 11118500 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+31/08/2021, 13329000 ,Evento social,Poblacion migratoria,Internacional,8,19
+01/09/2021, 7111030 ,Evento politico,Internacional,Internacional,2,5
+02/09/2021, 6183000 ,Evento politico,Internacional,Internacional,2,5
+03/09/2021, 6833692 ,Evento politico,Internacional,Internacional,2,5
+04/09/2021, 6890000 ,Evento politico,Internacional,Internacional,2,5
+05/09/2021, 3540000 ,Evento economico,Comercio internacional,Internacional,6,15
+06/09/2021, 3728000 ,Evento deportivo,Alto impacto,Internacional,1,1
+07/09/2021, 4624273 ,Evento deportivo,Alto impacto,Internacional,1,1
+08/09/2021, 7815000 ,Evento economico,Comercio internacional,Internacional,6,15
+09/09/2021, 2830000 ,Evento politico,Internacional,Internacional,2,5
+10/09/2021, 1510000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+11/09/2021, 3041000 ,Evento economico,Internos local,Nacional ,6,16
+12/09/2021, 3845000 ,Evento economico,Internos local,Nacional ,6,16
+13/09/2021, 3188200 ,Evento economico,Internos local,Nacional ,6,16
+14/09/2021, 7442860 ,Evento economico,Internos local,Nacional ,6,16
+15/09/2021, 6370000 ,Evento economico,Internos local,Nacional ,6,16
+16/09/2021, 5250000 ,Evento economico,Internos local,Nacional ,6,16
+17/09/2021, 4565000 ,Evento de farandula,Ciencia,Internacional,5,14
+18/09/2021, 6270000 ,Evento economico,Internos local,Nacional ,6,16
+19/09/2021, 2600000 ,Evento economico,Internos local,Nacional ,6,16
+20/09/2021, 800000 ,Evento economico,Internos local,Nacional ,6,16
+21/09/2021, 6025000 ,Evento economico,Internos local,Nacional ,6,16
+22/09/2021, 3691500 ,Evento economico,Internos local,Nacional ,6,16
+23/09/2021, 1250000 ,Evento economico,Comercio internacional,Nacional ,6,15
+24/09/2021, 4993000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+25/09/2021, 2180000 ,Evento economico,Internos local,Nacional ,6,16
+26/09/2021, 2320000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+27/09/2021, 1735000 ,Evento Siniestro,Afectacion ambiental,Nacional ,4,11
+28/09/2021, 2977000 ,Evento economico,Internos local,Nacional ,6,16
+29/09/2021, 3722000 ,Evento economico,Internos local,Nacional ,6,16
+30/09/2021, 8500000 ,Evento economico,Internos local,Nacional ,6,16
+01/10/2021, 5464530 ,Evento economico,Internos local,Nacional ,6,16
+02/10/2021, 11570000 ,Evento economico,Internos local,Nacional ,6,16
+03/10/2021, 7445000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+04/10/2021, 5684186 ,Evento economico,Comercio internacional,Nacional ,6,15
+05/10/2021, 4560000 ,Evento economico,Internos local,Nacional ,6,16
+06/10/2021, 4717500 ,Evento politico,Internacional,Internacional,2,5
+07/10/2021, 2800000 ,Evento politico,Internacional,Nacional ,2,5
+08/10/2021, 3976400 ,Evento de farandula,Actualidad,Nacional ,5,13
+09/10/2021, 4050000 ,Evento economico,Internos local,Nacional ,6,16
+10/10/2021, 2451000 ,Evento politico,Internacional,Internacional,2,5
+11/10/2021, 1420000 ,Evento de salud publica,Internos local,Nacional ,9,16
+12/10/2021, 2950000 ,Evento Siniestro,Afectacion indirecta,Internacional,4,10
+13/10/2021, 4828000 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+14/10/2021, 1917000 ,Evento festivo,dias de descanso,Nacional ,3,7
+15/10/2021, 3040000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+16/10/2021, 1676705 ,Evento politico,Internacional,Internacional,2,5
+17/10/2021, 1633000 ,Evento economico,Internos local,Nacional ,6,16
+18/10/2021, 2710000 ,Evento Derechos Humanos,Vulneracion de DDHH,Internacional,7,17
+19/10/2021, 12198000 ,Evento economico,Internos local,Nacional ,6,16
+20/10/2021, 5183000 ,Evento economico,Internos local,Nacional ,6,16
+21/10/2021, 6212025 ,Evento economico,Internos local,Nacional ,6,16
+22/10/2021, 2400000 ,Evento social,Poblacion migratoria,Nacional ,8,19
+23/10/2021, 455000 ,Evento economico,Internos local,Nacional ,6,16
+24/10/2021, 1920000 ,Evento economico,Internos local,Nacional ,6,16
+25/10/2021, 3350000 ,Evento economico,Internos local,Nacional ,6,16
+26/10/2021, 8770000 ,Evento economico,Internos local,Nacional ,6,16
+27/10/2021, 19717536 ,Evento economico,Internos local,Nacional ,6,16
+28/10/2021, 3820000 ,Evento economico,Comercio internacional,Nacional ,6,15
+29/10/2021, 4398800 ,Evento economico,Internos local,Nacional ,6,16
+30/10/2021, 1048000 ,Evento economico,Internos local,Nacional ,6,16
+31/10/2021, 2740000 ,Evento economico,Internos local,Nacional ,6,16
+01/11/2021, 16475000 ,Evento economico,Internos local,Nacional ,6,16
+02/11/2021, 4630000 ,Evento economico,Internos local,Nacional ,6,16
+03/11/2021, 4397530 ,Evento economico,Internos local,Nacional ,6,16
+04/11/2021, 3425000 ,Evento festivo,dias de descanso,Nacional ,3,7
+05/11/2021, 6264273 ,Evento politico,Internacional,Internacional,2,5
+06/11/2021, 2088503 ,Evento politico,Internacional,Internacional,2,5
+07/11/2021, 4898000 ,Evento politico,Internacional,Internacional,2,5
+08/11/2021, 3708000 ,Evento economico,Comercio internacional,Nacional ,6,15
+09/11/2021, 5019000 ,Evento politico,Internacional,Internacional,2,5
+10/11/2021, 9138000 ,Evento deportivo,Alto impacto,Nacional,1,1
+11/11/2021, 3285000 ,Evento festivo,dias de descanso,Nacional ,3,7
+12/11/2021, 5639945 ,Evento Siniestro,Afectacion ambiental,Internacional,4,11
+13/11/2021, 4880000 ,Evento Siniestro,Afectacion ambiental,Nacional,4,11
+14/11/2021, 7054500 ,Evento de salud publica,Pandemia Covid - 19,Nacional,9,20
+15/11/2021, 3027690 ,Evento economico,Internos local,Nacional,6,16
+16/11/2021, 2650000 ,Evento economico,Internos local,Nacional,6,16
+17/11/2021, 2777000 ,Evento economico,Internos local,Nacional,6,16
+18/11/2021, 3077000 ,Evento economico,Internos local,Nacional,6,16
+19/11/2021, 2210000 ,Evento economico,Internos local,Nacional,6,16
+20/11/2021, 2184000 ,Evento economico,Internos local,Nacional,6,16
+21/11/2021, 1270000 ,Evento economico,Internos local,Nacional,6,16
+22/11/2021, 4624000 ,Evento economico,Internos local,Nacional,6,16
+23/11/2021, 6704000 ,Evento economico,Internos local,Nacional,6,16
+24/11/2021, 9767585 ,Evento economico,Internos local,Nacional,6,16
+25/11/2021, 16046800 ,Evento economico,Internos local,Nacional,6,16
+26/11/2021, 6295000 ,Evento economico,Internos local,Nacional,6,16
+27/11/2021, 910000 ,Evento de farandula,Actualidad,Nacional,5,13
+28/11/2021, 1925000 ,Evento Economico,Internos local,Nacional,6,16
+29/11/2021, 3948530 ,Evento Economico,Internos local,Nacional,6,16
+30/11/2021, 14942000 ,Evento Economico,Internos local,Nacional,6,16
+01/12/2021, 10267000 ,Evento Economico,Internos local,Nacional,6,16
+02/12/2021, 6777000 ,Evento politico,Consultas y decisiones,Nacional,2,6
+03/12/2021, 12705000 ,Evento politico,Consultas y decisiones,Nacional,2,6
+04/12/2021, 9804000 ,Evento de farandula,Actualidad,Nacional,5,13
+05/12/2021, 2400000 ,Evento Economico,Internos local,Nacional,6,16
+06/12/2021, 6957000 ,Evento Economico,Internos local,Nacional,6,16
+07/12/2021, 7303700 ,Evento Economico,Internos local,Nacional,6,16
+08/12/2021, 4680000 ,Evento festivo,dias de descanso,Nacional ,3,7
+09/12/2021, 6285614 ,Evento Economico,Internos local,Nacional,6,16
+10/12/2021, 4224500 ,Evento Economico,Internos local,Internacional,6,16
+11/12/2021, 2300000 ,Evento Economico,Internos local,Nacional,6,16
+12/12/2021, 4193000 ,Evento Economico,Internos local,Nacional,6,16
+13/12/2021, 23413487 ,Evento Economico,Internos local,Nacional,6,16
+14/12/2021, 13070000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional,7,17
+15/12/2021, 13286000 ,Evento Economico,Comercio internacional,Internacional,6,15
+16/12/2021, 8720000 ,Evento Economico,Internos local,Nacional,6,16
+17/12/2021, 9440000 ,Evento Economico,Internos local,Nacional,6,16
+18/12/2021, 6320000 ,Evento Economico,Comercio internacional,Nacional,6,15
+19/12/2021, 5250000 ,Evento Economico,Internos local,Nacional,6,16
+20/12/2021, 23752170 ,Evento Economico,Internos local,Nacional,6,16
+21/12/2021, 15987000 ,Evento Economico,Internos local,Nacional,6,16
+22/12/2021, 35410000 ,Evento Economico,Internos local,Nacional,6,16
+23/12/2021, 20015590 ,Evento Economico,Internos local,Nacional,6,16
+24/12/2021, 8130499 ,Evento festivo,dias de descanso,Nacional ,3,7
+25/12/2021, 2420000 ,Evento Economico,Internos local,Nacional,6,16
+26/12/2021, 8370000 ,Evento de farandula,Actualidad,Internacional,5,13
+27/12/2021, 6286000 ,Evento deportivo,Alto impacto,Nacional,1,1
+28/12/2021, 7785846 ,Evento politico,Internacional,Internacional,2,5
+29/12/2021, 14767000 ,Evento politico,Consultas y decisiones,Nacional ,2,6
+30/12/2021, 12700000 ,Evento de salud publica,Pandemia Covid - 19,Nacional ,9,20
+31/12/2021, 9707000 ,Evento Derechos Humanos,Vulneracion de DDHH,Nacional ,7,17
